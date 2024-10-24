@@ -1,0 +1,22 @@
+.Navbar{
+    display:flex;
+    flex-direction: row;
+    list-style: none;
+    background-color: #8E2E31;
+    margin-top: 0px;
+    height: 40px;
+    align-items: center;
+}
+
+.link-style {
+    background: none;
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+    padding-right: 15px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+

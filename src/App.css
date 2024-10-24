@@ -1,0 +1,25 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  background-color: #8B665A;
+  color:#2B1E1D;
+  width:1000px;
+  height:max-content
+}
+
+input,textarea,select,option{
+  all:unset;
+  margin-top: 5px;
+  background-color: #c19482;
+}
+
+button{
+  all:unset;
+  color:wheat;
+  background-color: #2B1E1D;
+  height: 25px;
+  text-align: center;
+  padding:10px;
+  width:max-content;
+}
+

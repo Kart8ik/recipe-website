@@ -1,0 +1,17 @@
+.recipeForm{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    width:300px
+}
+
+.steps{
+    width:500px;
+    height: 150px;
+
+}
+
+.submit{
+    width: 50px;
+    margin-top: 15px;
+}

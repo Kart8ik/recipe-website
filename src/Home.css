@@ -1,0 +1,31 @@
+.recipeList{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.listItemComp{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+button{
+    all:unset;
+    background-color: #2B1E1D;
+    height: 25px;
+    text-align: center;
+}
+
+.namebtn {
+    background: none;
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+    padding: 0;
+    width:auto;
+    color: inherit;
+    cursor: pointer;
+  }
+  
