@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Aglio e Olio",
+      "desc": "A quick and easy garlic pasta.",
+      "ingredients": [
+        "200g spaghetti",
+        "4 garlic cloves, thinly sliced",
+        "1/4 cup olive oil",
+        "1/4 tsp red pepper flakes",
+        "Salt to taste",
+        "Fresh parsley for garnish"
+      ],
+      "steps": "Boil spaghetti in salted water until al dente. While it cooks, heat olive oil in a pan, add garlic and red pepper flakes, and cook until garlic is golden. Drain the spaghetti, add to the pan, and toss to coat in oil. Season with salt, garnish with parsley, and serve hot.",
+      "cooking_time": "15",
+      "difficulty": "medium",
+      "id": "922c"
+    },
+    {
+      "name": "Grilled Cheese Sandwich",
+      "desc": "A crispy and melty grilled cheese sandwich.",
+      "ingredients": [
+        "2 slices of bread",
+        "2 slices of cheddar cheese",
+        "1 tbsp butter"
+      ],
+      "steps": "Heat a pan over medium heat. Butter one side of each bread slice. Place one slice, buttered side down, in the pan, top with cheese slices, and place the other bread slice on top, buttered side up. Cook until golden brown on both sides and the cheese is melted.",
+      "cooking_time": "5",
+      "difficulty": "Very Easy",
+      "id": "cfa1"
+    }
+  ]
+}
